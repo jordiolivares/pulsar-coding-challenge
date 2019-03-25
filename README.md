@@ -2,7 +2,7 @@
 This is a technichal test for data engineering candidates for the Pulsar Team at Dow Jones.
 
 ## Data Challenge
-Please write a solution to the data challenge in Spark using Python or Scala, and a solution using [Scio](https://github.com/spotify/scio).
+Please write a solution to the [data challenge](challenges/data-challenge/challenge.pdf) in Spark using Python or Scala, and a solution using [Scio](https://github.com/spotify/scio).
 
 ## Graph Challenge
 Please complete this challenge using the instructions in the [README](challenges/graph-challenge/README.md)
