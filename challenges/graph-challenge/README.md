@@ -3,8 +3,8 @@ As someone who wants to see how M&A activity effects management changes I want t
 
 # XML Files
 https://storage.cloud.google.com/pulsar-coding-challenge/DJManagementChange_M_20190201.zip  
-https://storage.cloud.google.com/pulsar-coding-challenge/DJMergerAcquisition_M_20190201.zip 
-(To download these files you will need to be logged into your Wizeline or Dow Jones Google Accounts.)
+https://storage.cloud.google.com/pulsar-coding-challenge/DJMergerAcquisition_M_20190201.zip  
+*(To download these files you will need to be logged into your Wizeline or Dow Jones Google Accounts.)*
 
 # Resources
 https://jena.apache.org/documentation/io/#formats
