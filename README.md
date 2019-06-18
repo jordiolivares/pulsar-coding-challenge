@@ -7,6 +7,9 @@ Please write a solution to the [data challenge](challenges/data-challenge/challe
 ## Graph Challenge
 Please complete this challenge using the instructions in the [README](challenges/graph-challenge/README.md)
 
+## Text Classification Challenge
+Please complete this challenge using the instructions in the following [README](challenges/extraction-challenge.md) 
+
 ## Terms
 Candidates should do this test on their own. It is designed to be done in 2 or 3 hours but there is no hard limit.
 
