@@ -5,7 +5,7 @@ AutoML may make your job easier assist in this, but feel free to use any tools a
 
 ## Data Source
 Below are two locations of a data source that contain the news we want to identify a sample event from.
-https://bigquery.cloud.google.com/results/dowjones-com:US.bquijob_4ee1d31e_16b6a28d083?tab=schema (BigQuery)
+https://bigquery.cloud.google.com/table/dowjones-com:sample.news_archive (BigQuery)
 https://storage.googleapis.com/dj-pulsar-examples/dj-dna-news.csv (csv File)
 
 ## Resources
